@@ -1,4 +1,4 @@
-module github.com/buycoinsafrica/public-protos-mod
+module github.com/helicarrierstudio/public-protos-mod
 
 go 1.14
 
